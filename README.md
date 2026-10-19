@@ -21,24 +21,24 @@ Take the css rules below and properly attach them to the html so that your index
 
 ## CSS Selectors
 
-1.	body
-2.	#page-wrapper
-3.	#header
-4.	#header h1
-5.	#header a#logo1 img
+1.	body (used)
+2.	#page-wrapper (used)
+3.	#header (used)
+4.	#header h1 
+5.	#header a#logo1 img  (used)
 6.	#header #toplink
 7.	#footer
 8.	#content-wrapper
-9.	#main-content
+9.	#main-content (used)
 10.	h2 strong
-11.	.image-r
+11.	.image-r (used)
 12.	#side-content
-13.	#main-nav
-14.	#main-nav ul
+13.	#main-nav (used)
+14.	#main-nav ul (used)
 15.	#main-nav ul li
-16.	#main-nav ul li a
+16.	#main-nav ul li a (used)
 17.	#main-nav ul li a:hover
-18.	#center
+18.	#center (used)
 19.	strong
 
 ***
@@ -57,7 +57,7 @@ Take the css rules below and properly attach them to the html so that your index
 
 { margin-top: 20px;
   margin-left: 20px;
-  margin-bottom: 20px;}
+  margin-bottom: 20px;} (used)
 ***
 
 {   position: absolute;
@@ -65,7 +65,7 @@ Take the css rules below and properly attach them to the html so that your index
     top:5px;
   font-size: 3em;
     font-family: 'Devonshire', cursive;
-  color: #E35335;}
+  color: #E35335;} (used)
 ***
 
 { position: relative;
@@ -83,14 +83,14 @@ Take the css rules below and properly attach them to the html so that your index
     padding: 0;
     float: left;
     position: relative;
-    left:50%;}
+    left:50%;} (used)
 ***
 
 {   background-image: url("../images/repeating.png");
-    float: left;}
+    float: left;} (used)
 ***
 
-{   background-image: url("../images/black.jpg"); }
+{   background-image: url("../images/black.jpg"); }  (used)
 ***
 
 {   min-height: 300px;
@@ -109,7 +109,7 @@ Take the css rules below and properly attach them to the html so that your index
   width: 300px;
     padding: 5px;
     background-color: white;
-    margin: 10px 0 10px 20px;}
+    margin: 10px 0 10px 20px;} (used)
 ***
 
 {   min-height: 150px;
@@ -119,13 +119,13 @@ Take the css rules below and properly attach them to the html so that your index
 
 {   float: left;
     width: 100%;
-    background-color: #333;}
+    background-color: #333;} (used)
 ***
 
 {   padding: 10px 25px;
     display: block;
     text-decoration: none;
-    color: #ccc;}
+    color: #ccc;} (used)
 ***
 
 {   background-color: #ccc;
@@ -135,7 +135,7 @@ Take the css rules below and properly attach them to the html so that your index
 {   width: 960px;
     margin: 0 auto;
     box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1);
-    border-radius: 12px 12px 0px 0px; }
+    border-radius: 12px 12px 0px 0px; } (used)
 ***
   
 {   float: left;
