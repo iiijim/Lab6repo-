@@ -28,14 +28,14 @@ Take the css rules below and properly attach them to the html so that your index
 5.	#header a#logo1 img  (used)
 6.	#header #toplink (used)
 7.	#footer (used)
-8.	#content-wrapper
+8.	#content-wrapper (USED)
 9.	#main-content (used)
 10.	h2 strong (used)
 11.	.image-r (used)
-12.	#side-content
+12.	#side-content (used)
 13.	#main-nav (used)
 14.	#main-nav ul (used)
-15.	#main-nav ul li
+15.	#main-nav ul li (used)
 16.	#main-nav ul li a (used)
 17.	#main-nav ul li a:hover
 18.	#center (used)
@@ -97,11 +97,11 @@ Take the css rules below and properly attach them to the html so that your index
     width: 715px;
     margin-right: 30px;
     float: left;
-    margin-left: 15px;}
+    margin-left: 15px;} (used)
 ***
 
 { font-size: 2em;
-  font-weight: 900;}
+  font-weight: 900;} (used)
 ***
 
 {   float: right;
@@ -114,7 +114,7 @@ Take the css rules below and properly attach them to the html so that your index
 
 {   min-height: 150px;
     width: 200px;
-    float: left;}
+    float: left;} (used)
 ***
 
 {   float: left;
@@ -140,13 +140,13 @@ Take the css rules below and properly attach them to the html so that your index
   
 {   float: left;
     position: relative;
-    right: 50%;}
+    right: 50%;} (used)
 ***
 {       width: 960px;
         text-align: center;}
 
 ***
 {       font-weight: 900;
-        font-size: 48px;} (used)
+        font-size: 48px;}
 
 
