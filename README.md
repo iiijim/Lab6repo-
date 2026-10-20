@@ -24,13 +24,13 @@ Take the css rules below and properly attach them to the html so that your index
 1.	body (used)
 2.	#page-wrapper (used)
 3.	#header (used)
-4.	#header h1 
+4.	#header h1 (used)
 5.	#header a#logo1 img  (used)
-6.	#header #toplink
-7.	#footer
+6.	#header #toplink (used)
+7.	#footer (used)
 8.	#content-wrapper
 9.	#main-content (used)
-10.	h2 strong
+10.	h2 strong (used)
 11.	.image-r (used)
 12.	#side-content
 13.	#main-nav (used)
@@ -52,7 +52,7 @@ Take the css rules below and properly attach them to the html so that your index
     top:-34px;
     right: 10px;
     color: white;
-  font-size: 1.8em;}
+  font-size: 1.8em;} (used)
 ***
 
 { margin-top: 20px;
@@ -70,12 +70,12 @@ Take the css rules below and properly attach them to the html so that your index
 
 { position: relative;
   margin-top: 40px;
-  border-radius: 12px 12px 0px 0px;}
+  border-radius: 12px 12px 0px 0px;} (used)
 ***
 
 {   background-color: #777;
     height: 80px;
-    clear: both;}
+    clear: both;} (used)
 ***
 
 {   list-style-type: none;
@@ -147,6 +147,6 @@ Take the css rules below and properly attach them to the html so that your index
 
 ***
 {       font-weight: 900;
-        font-size: 48px;}
+        font-size: 48px;} (used)
 
 
